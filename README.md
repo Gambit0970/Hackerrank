@@ -2,7 +2,7 @@
 These were created from my Hackerrank account
 
 
-To use the main.py file to scrap hackerranks:
+To use the main.py file to scrape hackerranks:
   * download the code
   * run command line as follows: python main.py uuuuuuuu pppppppp
     where
