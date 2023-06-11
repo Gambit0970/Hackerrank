@@ -9,6 +9,9 @@ To use the main.py file to scrape hackerranks:
     * uuuuuuuu is your hackerrank username
     * pppppppp is your hackerrank password
 
- * see the submissions folder for structure
+ * Submissions folder in the following structure:
+   *     "cpp"  folder - *."cpp"
+   *     "py"   folder - *.python, *.python3, *.pypy, *.pypy3
+   *     "bash" folder - *.sh
 
 Credit to @0xecho for the original code 
