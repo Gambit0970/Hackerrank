@@ -1,2 +1,5 @@
 count = int(input())
-print(len({input() for i in range(count)}))
+s = set()
+for i in range(count):
+    s.add(input())
+print(len(s))
